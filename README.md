@@ -30,3 +30,6 @@
 ## 📊 Диаграмма классов
 
 ![Диаграмма UML](SmartHome/diagramme_uml.png)
+## 📸 Демонстрация работы
+
+![Демонстрация](demo_console.png)
