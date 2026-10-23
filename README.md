@@ -27,3 +27,6 @@
 2. Перейдите в папку проекта:
    ```bash
    cd SmartHome
+## 📊 Диаграмма классов
+
+![Диаграмма UML](SmartHome/diagramme_uml.png)
